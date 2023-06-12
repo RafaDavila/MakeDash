@@ -1,0 +1,30 @@
+img{
+    margin-top: 80px;
+    margin-left: -130px;
+}
+
+form{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.form-label {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+    margin-bottom: 0.1rem;
+}
+
+.form-control{
+    border-color: #67686C;
+}
+
+.btn-primary {
+    border-color: #EB3030;
+    background-color: #EB3030;
+    color: #FFFFFF;
+    font-family: "Bebas Neue", sans-serif;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+
